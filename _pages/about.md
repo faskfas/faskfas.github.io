@@ -12,5 +12,7 @@ Hello there!My name is Dekang Chen, a third-year undergraduate student at [Shand
 Let's work hard together.
 
 My Name:Dekang chen(陈德康)
+
 My education email:dk_chen@mail.sdu.edu.cn
+
 My commonly used email：2824827721@qq.com
