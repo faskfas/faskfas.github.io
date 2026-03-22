@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there!My name is Dekang Chen, a third-year undergraduate student at [Shandong University](https://www.sdu.edu.cn/index.htm), majoring in [Computer Science and Technology](https://www.cs.sdu.edu.cn/).I am interested in computer vision-related fields and am currently studying topics related to Object Goal Navigation.
+Hello there!This is a simple personal site about me.My name is Dekang Chen, a third-year undergraduate student at [Shandong University](https://www.sdu.edu.cn/index.htm), majoring in [Computer Science and Technology](https://www.cs.sdu.edu.cn/).I am interested in computer vision-related fields and am currently studying topics related to Object Goal Navigation.
 
 Let's work hard together.
 
